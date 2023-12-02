@@ -1,0 +1,7 @@
+{
+    "SYSADMIN": "sysadmin",
+    "ADMIN": "admin",
+    "MOD": "mod",
+    "USER": "user", 
+    "COMPANY": "company"
+}
